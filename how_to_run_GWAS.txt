@@ -1,0 +1,1 @@
+python3.7 run_pipeline.py -i /home/met/dev/GWASpipeline/yaml_files/CBA/GWAS_Centralobesity_imputedSNPs_07April2021.yaml
